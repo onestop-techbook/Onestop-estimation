@@ -13,6 +13,9 @@ CHAPS:
 
   - chap-small-estimation.re
 
+# 再見積を防ぐ手法としてのRFP
+
+  - chap-rfp.re
 APPENDIX:
 
 # なにか付録があれば
