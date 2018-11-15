@@ -11,6 +11,7 @@
 #@# NqlbbcCl_400x400.jpg    カウプラン機間極東支部
 #@# RkmwJH1I_400x400.jpg    湊川あい
 #@# wQsdxU4b_400x400.jpg    なかひこくん
+#@# KJuhmDlA_400x400.png    ariaki
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -73,5 +74,20 @@
     \hspace{1ex}
 //}
 絵を描くWebデザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。書籍「わかばちゃんと学ぶGoogleアナリティクス」が12月末締切の中、親方さんからお声がけいただき、大変魅力的な企画だったので、勢いで表紙イラスト・一部原稿に参加させていただきました。表紙のキャラクターは、スカンクの天使です。性別は不明なので、皆様の趣味に合わせて好きに解釈していただければ幸いです。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/KJuhmDlA_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ariaki @ariaki4dev https://twitter.com/ariaki4dev\\
+        サークル名：エンジニアの登壇を応援する会 http://engineers-lt.info
+        \end{minipage}
+    \hspace{1ex}
+//}
+勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。コミュニティを通じて親方さんからお声がけいただき、楽しそうだったので勢いだけではじめて執筆させていただきました。エンジニアにもそれ以外の方にも楽しく読んで頂けるようなエモい内容でお伝えできればと思っています。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
