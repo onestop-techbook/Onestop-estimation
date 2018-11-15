@@ -9,6 +9,10 @@ CHAPS:
   - chap-sample.re
   - chap-1.re
 
+# 若手エンジニアのための作業時間見積もり入門@Aizack
+
+  - chap-aizack.re
+
 # 小規模案件の見積もり＠親方
 
   - chap-small-estimation.re
@@ -24,6 +28,18 @@ CHAPS:
 # 見積もる前に作業を終わらせろ
 
   - chap-work.re
+
+# いにしえのデスマーチ
+
+  - chap-kawahara-death-march.re
+
+# 安全マージンと修羅場とわたし
+
+  - chap-ariaki-safe-margin.re
+
+# 壊れたスケジュール（仮）
+
+  - chap-ariaki-break-schedule.re
 
 APPENDIX:
 
