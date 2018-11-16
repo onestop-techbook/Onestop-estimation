@@ -41,6 +41,18 @@ CHAPS:
 
   - chap-ariaki-break-schedule.re
 
+# 見積もりに必要なもの（要件定義）＠オーニシ
+
+　-chap-1.re
+
+# フリーランス（受注側）にとっての見積もり ＠オーニシ
+
+ -chap-freelance-took.re
+
+# 少人数チームでの見積もり失敗談（仮）＠オーニシ
+
+-chap-example-onishi.re
+
 APPENDIX:
 
 # なにか付録があれば
