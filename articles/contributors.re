@@ -90,4 +90,19 @@
 //}
 勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。コミュニティを通じて親方さんからお声がけいただき、楽しそうだったので勢いだけではじめて執筆させていただきました。エンジニアにもそれ以外の方にも楽しく読んで頂けるようなエモい内容でお伝えできればと思っています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        このすみ @konosumi https://twitter.com/konosumi\\
+        サークル名： このすみ堂 https://www.konosumi.net/
+        \end{minipage}
+    \hspace{1ex}
+//}
+会社ではプレイングマネージャーとして働きながら、趣味でブログや同人活動をしています。サーバーサイドからモバイルアプリまで、プログラミング全般が好きです。今回は、技術書典5のエンジニアアンチパターンがきっかけで、合同誌の執筆に参加させていただきました。少しでも参考になれば幸いです。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
