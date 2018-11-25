@@ -105,5 +105,24 @@
 //}
 会社ではプレイングマネージャーとして働きながら、趣味でブログや同人活動をしています。サーバーサイドからモバイルアプリまで、プログラミング全般が好きです。今回は、技術書典5のエンジニアアンチパターンがきっかけで、合同誌の執筆に参加させていただきました。少しでも参考になれば幸いです。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/alice_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ありす ゆう @Alice\_You https://twitter.com/Alice\_You\\
+        サークル名：AliceSystem  http://aliceyou.air-nifty.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SEになっていました。コミケでは、インフラエンジニアの毒舌な妹(@infra\_imouto)と共著で、ネットワークとサーバの本を出しています。好きなものはIPv6とMTAとDNS。今回は、ユーザ企業の社内SEとしてRFPを絡めた話にしてみました。
+
+
+
+
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
 
