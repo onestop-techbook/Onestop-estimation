@@ -21,7 +21,8 @@ CHAPS:
 
   - chap-pseudo-estimation.re
 
-  # 再見積を防ぐ手法としてのRFP
+
+  # 再見積を防ぐ手法としてのRFP/いわゆる相見積とRFPを比較する
 
   - chap-rfp.re
 
@@ -48,9 +49,15 @@ CHAPS:
   # 見積もり体験としての同人誌
 
   - chap-doujinshi.re
-
-  # アジャイルと見積もり
+  
+    # アジャイルと見積もり
   - chap-agile.re
+
+# 温かみある見積もりのために
+
+  - chap-kane-trust.re
+
+APPENDIX:
 
   # フリーランスと見積もり
   - chap-freelance.re
