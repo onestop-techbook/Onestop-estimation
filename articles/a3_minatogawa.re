@@ -25,5 +25,5 @@
 現在はHTML/CSS、Git、Googleアナリティクスの3種類が書店・Amazonにて発売中です。
 それ以外にも『マンガでわかるDocker』『マンガでわかるUnity』『マンガでわかるLINE Clova開発』などをWebで公開しているので気になった方はちらっとのぞいてやってくれると嬉しいです。
 
-* Twitter：@llminatoll
-* http://webdesign-manga.com/
+ * Twitter：@llminatoll
+ * http://webdesign-manga.com/
