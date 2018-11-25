@@ -6,7 +6,8 @@ CHAPS:
 
 # 各自書きたい内容とファイル名を追加していく
 
-  - chap-sample.re
+# 見積もりに必要なもの（要件定義）@オーニシ
+
   - chap-1.re
 
 # 若手エンジニアのための作業時間見積もり入門@Aizack
@@ -45,9 +46,21 @@ CHAPS:
 
   - chap-konosumi-anti-pattern.re
 
+# 見積もり体験としての同人誌
+
+  - chap-doujinshi.re
+
+# 温かみある見積もりのために
+
+  - chap-kane-trust.re
+
 APPENDIX:
 
 # なにか付録があれば
+
+  - a1_teihen.re
+  - a2_MzRyuKa.re
+  - a3_minatogawa.re
 
 POSTDEF:
 
