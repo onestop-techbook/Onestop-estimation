@@ -22,7 +22,7 @@ CHAPS:
 
   - chap-pseudo-estimation.re
 
-# 再見積を防ぐ手法としてのRFP
+# いわゆる相見積とRFPを比較する
 
   - chap-rfp.re
 
