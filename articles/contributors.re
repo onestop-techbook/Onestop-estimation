@@ -12,6 +12,7 @@
 #@# RkmwJH1I_400x400.jpg    湊川あい
 #@# wQsdxU4b_400x400.jpg    なかひこくん
 #@# KJuhmDlA_400x400.png    ariaki
+#@# __aizack_400×400.jpg    Aizack
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
