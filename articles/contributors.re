@@ -12,6 +12,7 @@
 #@# RkmwJH1I_400x400.jpg    湊川あい
 #@# wQsdxU4b_400x400.jpg    なかひこくん
 #@# KJuhmDlA_400x400.png    ariaki
+#@# __aizack_400×400.jpg    Aizack
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -90,4 +91,39 @@
 //}
 勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。コミュニティを通じて親方さんからお声がけいただき、楽しそうだったので勢いだけではじめて執筆させていただきました。エンジニアにもそれ以外の方にも楽しく読んで頂けるようなエモい内容でお伝えできればと思っています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        このすみ @konosumi https://twitter.com/konosumi\\
+        サークル名： このすみ堂 https://www.konosumi.net/
+        \end{minipage}
+    \hspace{1ex}
+//}
+会社ではプレイングマネージャーとして働きながら、趣味でブログや同人活動をしています。サーバーサイドからモバイルアプリまで、プログラミング全般が好きです。今回は、技術書典5のエンジニアアンチパターンがきっかけで、合同誌の執筆に参加させていただきました。少しでも参考になれば幸いです。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/alice_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ありす ゆう @Alice\_You https://twitter.com/Alice\_You\\
+        サークル名：AliceSystem  http://aliceyou.air-nifty.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SEになっていました。コミケでは、インフラエンジニアの毒舌な妹(@infra\_imouto)と共著で、ネットワークとサーバの本を出しています。好きなものはIPv6とMTAとDNS。今回は、ユーザ企業の社内SEとしてRFPを絡めた話にしてみました。
+
+
+
+
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
+
