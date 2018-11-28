@@ -21,7 +21,7 @@ CHAPS:
 
   - chap-small-estimation.re
 
-# 【付録へ移動、予定】なんちゃって見積り（仮称）。よく知らん開発の、とりあえずの見積もりを報告する方法＠ほしまど
+  # 【付録へ移動、予定】なんちゃって見積り（仮称）。よく知らん開発の、とりあえずの見積もりを報告する方法＠ほしまど
 
   - chap-hoshimado-pseudo-estimation.re
 
@@ -57,7 +57,7 @@ CHAPS:
     # アジャイルと見積もり
   - chap-agile.re
 
-# 温かみある見積もりのために
+  # 温かみある見積もりのために
 
   - chap-kane-trust.re
 
@@ -67,7 +67,7 @@ CHAPS:
 
   # 少人数チームでの見積もり失敗談（仮）＠オーニシ
 
- - chap-example-onishi.re
+  - chap-example-onishi.re
 
 APPENDIX:
 
