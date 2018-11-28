@@ -13,6 +13,7 @@
 #@# wQsdxU4b_400x400.jpg    なかひこくん
 #@# KJuhmDlA_400x400.png    ariaki
 #@# __aizack_400×400.jpg    Aizack
+#@# Fhe3QTCf_400x400.jpg    オーニシ
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -122,6 +123,19 @@
 NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SEになっていました。コミケでは、インフラエンジニアの毒舌な妹(@infra\_imouto)と共著で、ネットワークとサーバの本を出しています。好きなものはIPv6とMTAとDNS。今回は、ユーザ企業の社内SEとしてRFPを絡めた話にしてみました。
 
 
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Fhe3QTCf_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        オーニシ @onishi\_feuer https://twitter.com/onishi\_feuer\\
+        サークル名：電脳世界  https://denno-sekai.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーランスでWebマーケティング、Web制作などの活動をしています。多少技術のわかる企画者という感じなのでWebサイト、PCゲーム、YouTube動画、技術書などを自分で勝手に企画して作っていますが受注も始めました。技術書典5とおやかた.amをきっかけに合同誌の執筆に参加させていただきました。自サークルではWordPressとGitと個人事業主の本を出しています。
 
 
 
