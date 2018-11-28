@@ -61,6 +61,14 @@ CHAPS:
 
   - chap-kane-trust.re
 
+  # フリーランス（受注側）にとっての見積もり ＠オーニシ
+
+  - chap-freelance-took.re
+
+  # 少人数チームでの見積もり失敗談（仮）＠オーニシ
+
+ - chap-example-onishi.re
+
 APPENDIX:
 
   # フリーランスと見積もり
