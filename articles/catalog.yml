@@ -9,6 +9,10 @@ CHAPS:
 
   - chap-1.re
 
+  # タスク見積もり @eruiti
+
+  - chap-task.re
+
   # 若手エンジニアのための作業時間見積もり入門@Aizack
 
   - chap-aizack.re
@@ -49,7 +53,7 @@ CHAPS:
   # 見積もり体験としての同人誌
 
   - chap-doujinshi.re
-  
+
     # アジャイルと見積もり
   - chap-agile.re
 
