@@ -47,6 +47,19 @@
 
 == 執筆者
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        見積もりやっていきおじさん
+        サークル名：みつもりやっていき
+        \end{minipage}
+    \hspace{1ex}
+//}
+見積もり大好きだけど、見積もり大嫌い。
+　
 　
 
 //embed{
