@@ -50,7 +50,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         見積もりやっていきおじさん
