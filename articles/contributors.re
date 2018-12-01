@@ -53,7 +53,7 @@
         \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        見積もりやっていきおじさん
+        見積もりやっていきおじさん\\
         サークル名：みつもりやっていき
         \end{minipage}
     \hspace{1ex}

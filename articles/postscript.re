@@ -13,5 +13,5 @@
 //flushright{
 2018年12月
 
-親方＠親方Project　拝
+編集長　親方＠親方Project　拝
 //}
