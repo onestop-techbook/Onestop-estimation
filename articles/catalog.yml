@@ -38,13 +38,9 @@ CHAPS:
 
   - chap-kawahara-death-march.re
 
-  # 安全マージンと修羅場とわたし
+  # 納期と信頼＠見積もりやっていきおじさん
 
-  - chap-ariaki-safe-margin.re
-
-  # 壊れたスケジュール（仮）
-
-  - chap-ariaki-break-schedule.re
+  - chap-delivery-trust.re
 
   # エンジニアアンチパターンの過小見積もりで炎上するプロジェクト by 合同誌エディション（仮）
 
@@ -68,6 +64,10 @@ CHAPS:
   # 少人数チームでの見積もり失敗談（仮）＠オーニシ
 
   - chap-example-onishi.re
+
+  # 安全マージン＠ariaki
+
+  - chap-safe-margin.re
 
   - chap-hirosys.re
 
