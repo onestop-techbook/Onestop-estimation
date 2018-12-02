@@ -73,6 +73,10 @@ CHAPS:
 
   - chap-hirosys.re
 
+  # 見積もりのアンチパターン
+
+  - chap-anti-pattern.re
+
 APPENDIX:
 
   # フリーランスと見積もり

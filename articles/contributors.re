@@ -12,7 +12,7 @@
 #@# RkmwJH1I_400x400.jpg    湊川あい
 #@# wQsdxU4b_400x400.jpg    なかひこくん
 #@# KJuhmDlA_400x400.png    ariaki
-#@# __aizack_400×400.jpg    Aizack
+#@# __aizack_400x400.jpg    Aizack
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
 #@#自己紹介ひな形↓
@@ -142,7 +142,7 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 
     \begin{minipage}{.1\linewidth}
         \centering
-		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
+		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         Aizack @ykokubo09   https://twitter.com/ykokubo09\\
@@ -174,7 +174,7 @@ growthfactionやengineers_ltでは、広報担当としてコミュニティの�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         FORTE(フォルテ) https://twitter.com/FORTEgp05
@@ -200,6 +200,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 「ルーチンワークを楽にこなしたい」を目的に、趣味で日曜プログラミング。最近はNode.jsの手軽さが気に入って勉強中。
 仕事での見積もりは「私、それよく知らないんですけど？」な開発内容を振られて困ったことしか経験が無い。そんな初歩で困っている人もきっと居るはず、そんな人に届いたらいいな、と合同誌に参戦。むしろ私がこの本で勉強させていただきます。
 
+
 //embed{
    \begin{minipage}{.1\linewidth}
        \centering
@@ -212,6 +213,24 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //}
 放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました、SESとして客先常駐していますが特定派遣なので職を失います、原稿書いている時点では転職活動中です。
 今回、この見積もりの話を寄稿したのは、ゲーム業界とスタートアップ企業界隈が似たようなアンチパターンを持っていると感じたためです。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yunon_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ゆのん @yunon\_phys https://twitter.com/yunon\_phys\\
+        サークル名： Growthfaction , EM.FM https://anchor.fm/em-fm
+        \end{minipage}
+    \hspace{1ex}
+//}
+これまで複数タイトルのモバイルゲームのプロジェクトマネージメント業務に従事してきました。
+Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティを務めています。
+今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
+
 
 == 表紙イラスト担当
 
