@@ -172,12 +172,24 @@ growthfactionやengineers_ltでは、広報担当としてコミュニティの�
 		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
+        Aizack @ykokubo09   https://twitter.com/ykokubo09\\
         サークル名：Everyone Outputer
         \end{minipage}
     \hspace{1ex}
 //}
 SIerのSEとして客先に常駐しています。予算・工数見積もりなどは経験がないため、SEとして得た2年経験を振り返って若手エンジニア向けの作業見積もりをテーマに寄稿させて頂きました。過去の自分のように見積もりに悩む若手エンジニアに私の経験が届いてほしいと思って書きました。
 
-#@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       さっぴー川原 @sapi_kawahara   https://twitter.com/sapi_kawahara\\
+       \end{minipage}
+   \hspace{1ex}
+//}
+放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころよりIT業界に転職しました、SESとして客先常駐していますが特定派遣なので職を失います、原稿書いている時点では転職活動中です。
+今回、この見積もりの話を寄稿したのは、ゲーム業界とスタートアップ企業界隈が似たようなアンチパターンを持っていると感じたためです。
 
+#@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
