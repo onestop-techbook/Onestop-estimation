@@ -14,6 +14,7 @@
 #@# KJuhmDlA_400x400.png    ariaki
 #@# __aizack_400×400.jpg    Aizack
 #@# Fhe3QTCf_400x400.jpg    オーニシ
+#@# hoshimad_400x400.jpg    ほしまど
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -167,6 +168,37 @@ SIerのSEとして客先に常駐しています。予算・工数見積もり�
 おしごと界隈で働いているエンジニア
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 growthfactionやengineers_ltでは、広報担当としてコミュニティの認知向上をするために日夜努力しております。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        FORTE(フォルテ) https://twitter.com/FORTEgp05
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はSIerとWeb系で得た経験から、オススメの見積もり手法について書きました。もっとうまい見積もり手法を探している人のお役に立てれば幸いです。
+
+　
+#@# ↑明示的な全角空白があるので、忘れずに。
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hoshimad_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ほしまど @hoshimado7 https://twitter.com/hoshimado7\\
+        サークル名：Fluorite
+        \end{minipage}
+    \hspace{1ex}
+//}
+仕事はたぶんIT関連。でも仕事じゃコーディングしてない。
+「ルーチンワークを楽にこなしたい」を目的に、趣味で日曜プログラミング。最近はNode.jsの手軽さが気に入って勉強中。
+仕事での見積もりは「私、それよく知らないんですけど？」な開発内容を振られて困ったことしか経験が無い。そんな初歩で困っている人もきっと居るはず、そんな人に届いたらいいな、と合同誌に参戦。むしろ私がこの本で勉強させていただきます。
 
 　
 
