@@ -12,6 +12,8 @@
 #@# RkmwJH1I_400x400.jpg    湊川あい
 #@# wQsdxU4b_400x400.jpg    なかひこくん
 #@# KJuhmDlA_400x400.png    ariaki
+#@# __aizack_400×400.jpg    Aizack
+#@# Fhe3QTCf_400x400.jpg    オーニシ
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -45,6 +47,19 @@
 
 == 執筆者
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        見積もりやっていきおじさん\\
+        サークル名：みつもりやっていき
+        \end{minipage}
+    \hspace{1ex}
+//}
+見積もり大好きだけど、見積もり大嫌い。
+
 　
 
 //embed{
@@ -58,7 +73,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-最近はひたすらJavaScript ASTを触ってる感じのエンジニア兼技術書執筆を楽しんでおります。僕も重度の締め切り駆動執筆罹患者なんですが、技術書典4は余裕のあるスケジュールで書きたいなーなどと思っています。先端エッジのソフトウェア技術からエモい話、なんでもござれ。JavaScript/TypeScript大好きのわりにはフロントエンドはあまりやってなくてバックエンドやインフラ技術の方が詳しいという謎の存在。技術書典4もきっとJSに絡めた何かを書いていると思います。
+最近の技術書典ではスケジュールに無理がありすぎて、僕の見積もり力とは…という感じですが、今後はちゃんとこの本を何回も読み返して頑張っていきたいと思います。ちなみにメタプログラミング、TypeScript、VSCode大好き！その割にはフロントエンドよりもバックエンドの経験値の方が高かったり、微妙にインフラ知識・経験もあるという。技術書典6でもJS系の本を出してるに違いないです。
 
 　
 
@@ -69,11 +84,11 @@
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         湊川あい @llminatoll https://twitter.com/llminatoll\\
-        サークル名：マンガでわかるWebデザイン+Git http://webdesign-manga.com/
+        サークル名：湊川あいの、わかば家。 http://webdesign-manga.com/
         \end{minipage}
     \hspace{1ex}
 //}
-絵を描くWebデザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。書籍「わかばちゃんと学ぶGoogleアナリティクス」が12月末締切の中、親方さんからお声がけいただき、大変魅力的な企画だったので、勢いで表紙イラスト・一部原稿に参加させていただきました。表紙のキャラクターは、スカンクの天使です。性別は不明なので、皆様の趣味に合わせて好きに解釈していただければ幸いです。
+絵を描くWeb デザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。前回に引き続き、表紙イラスト・付録コラムに参加させていただきました。今回見積もり本ということで、おやかたさんアイデアのガントチャート風の背景がビシッと決まり気に入っています。
 
 　
 
@@ -90,12 +105,54 @@
 //}
 勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。コミュニティを通じて親方さんからお声がけいただき、楽しそうだったので勢いだけではじめて執筆させていただきました。エンジニアにもそれ以外の方にも楽しく読んで頂けるようなエモい内容でお伝えできればと思っています。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        このすみ @konosumi https://twitter.com/konosumi\\
+        サークル名： このすみ堂 https://www.konosumi.net/
+        \end{minipage}
+    \hspace{1ex}
+//}
+会社ではプレイングマネージャーとして働きながら、趣味でブログや同人活動をしています。サーバーサイドからモバイルアプリまで、プログラミング全般が好きです。今回は、技術書典5のエンジニアアンチパターンがきっかけで、合同誌の執筆に参加させていただきました。少しでも参考になれば幸いです。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/alice_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ありす ゆう @Alice\_You https://twitter.com/Alice\_You\\
+        サークル名：AliceSystem  http://aliceyou.air-nifty.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SEになっていました。コミケでは、インフラエンジニアの毒舌な妹(@infra\_imouto)と共著で、ネットワークとサーバの本を出しています。好きなものはIPv6とMTAとDNS。今回は、ユーザ企業の社内SEとしてRFPを絡めた話にしてみました。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/Fhe3QTCf_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        オーニシ @onishi\_feuer https://twitter.com/onishi\_feuer\\
+        サークル名：電脳世界  https://denno-sekai.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+フリーランスでWebマーケティング、Web制作などの活動をしています。多少技術のわかる企画者という感じなのでWebサイト、PCゲーム、YouTube動画、技術書などを自分で勝手に企画して作っていますが受注も始めました。技術書典5とおやかた.amをきっかけに合同誌の執筆に参加させていただきました。自サークルではWordPressとGitと個人事業主の本を出しています。
 
 
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
+
         \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -108,4 +165,17 @@
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 growthfactionやengineers_ltでは、広報担当としてコミュニティの認知向上をするために日夜努力しております。
 
+
+
+\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
+        サークル名：Everyone Outputer
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerのSEとして客先に常駐しています。予算・工数見積もりなどは経験がないため、SEとして得た2年経験を振り返って若手エンジニア向けの作業見積もりをテーマに寄稿させて頂きました。過去の自分のように見積もりに悩む若手エンジニアに私の経験が届いてほしいと思って書きました。
+
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
+

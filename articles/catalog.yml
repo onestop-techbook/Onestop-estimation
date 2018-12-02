@@ -1,62 +1,86 @@
 PREDEF:
-# はじめに
+  # はじめに
   - preface.re
 
 CHAPS:
+  # 各自書きたい内容とファイル名を追加していく
 
-# 各自書きたい内容とファイル名を追加していく
+  # 見積もりに必要なもの（要件定義）@オーニシ
 
-  - chap-sample.re
   - chap-1.re
 
-# 若手エンジニアのための作業時間見積もり入門@Aizack
+  # タスク見積もり @eruiti
+
+  - chap-task.re
+
+  # 若手エンジニアのための作業時間見積もり入門@Aizack
 
   - chap-aizack.re
 
-# 小規模案件の見積もり＠親方
+  # 小規模案件の見積もり＠親方
 
   - chap-small-estimation.re
 
-# なんちゃって見積り（仮称）。よく知らん開発の、とりあえずの見積もりを報告する方法＠ほしまど
+  # 【付録へ移動、予定】なんちゃって見積り（仮称）。よく知らん開発の、とりあえずの見積もりを報告する方法＠ほしまど
 
-  - chap-pseudo-estimation.re
+  - chap-hoshimado-pseudo-estimation.re
 
-# 再見積を防ぐ手法としてのRFP
+
+  # 再見積を防ぐ手法としてのRFP/いわゆる相見積とRFPを比較する
 
   - chap-rfp.re
 
-# 見積もる前に作業を終わらせろ
+  # 見積もる前に作業を終わらせろ
 
   - chap-work.re
 
-# いにしえのデスマーチ
+  # いにしえのデスマーチ
 
   - chap-kawahara-death-march.re
 
-# 安全マージンと修羅場とわたし
+  # 安全マージンと修羅場とわたし
 
   - chap-ariaki-safe-margin.re
 
-# 壊れたスケジュール（仮）
+  # 壊れたスケジュール（仮）
 
   - chap-ariaki-break-schedule.re
 
-# エンジニアアンチパターンの過小見積もりで炎上するプロジェクト by 合同誌エディション（仮）
+  # エンジニアアンチパターンの過小見積もりで炎上するプロジェクト by 合同誌エディション（仮）
 
   - chap-konosumi-anti-pattern.re
 
-# 温かみのある見積もりをするために
+  # 見積もり体験としての同人誌
+
+  - chap-doujinshi.re
+
+    # アジャイルと見積もり
+  - chap-agile.re
+
+  # 温かみある見積もりのために
 
   - chap-kane-trust.re
 
+  # フリーランス（受注側）にとっての見積もり ＠オーニシ
+
+  - chap-freelance-took.re
+
+  # 少人数チームでの見積もり失敗談（仮）＠オーニシ
+
+  - chap-example-onishi.re
+
+  - chap-hirosys.re
+
 APPENDIX:
 
-# なにか付録があれば
+  # フリーランスと見積もり
+  - chap-freelance.re
+
+  - a3_minatogawa.re
 
 POSTDEF:
-
-# あとがき
+  # あとがき
   - postscript.re
 
-# 執筆者一覧
+  # 執筆者一覧
   - contributors.re
