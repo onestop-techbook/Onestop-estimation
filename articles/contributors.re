@@ -254,7 +254,7 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
         \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
    \end{minipage}
    \begin{minipage}{.89\linewidth}
-       さっぴー川原 @sapi_kawahara   https://twitter.com/sapi_kawahara\\
+       さっぴー川原 @sapi\_kawahara   https://twitter.com/sapi\_kawahara\\
        \end{minipage}
    \hspace{1ex}
 //}
