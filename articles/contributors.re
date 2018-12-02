@@ -168,7 +168,19 @@ SIerのSEとして客先に常駐しています。予算・工数見積もり�
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 growthfactionやengineers_ltでは、広報担当としてコミュニティの認知向上をするために日夜努力しております。
 
+　
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        FORTE(フォルテ) https://twitter.com/FORTEgp05
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はSIerとWeb系で得た経験から、オススメの見積もり手法について書きました。もっとうまい見積もり手法を探している人のお役に立てれば幸いです。
 
 == 表紙イラスト担当
 
