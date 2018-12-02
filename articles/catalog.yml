@@ -17,71 +17,73 @@ CHAPS:
 
   - chap-aizack.re
 
+  # 2点見積もり
   - chap-forte-2point.re
 
-  # 小規模案件の見積もり＠親方
-
-  - chap-small-estimation.re
-
-  # 【付録へ移動、予定】なんちゃって見積り（仮称）。よく知らん開発の、とりあえずの見積もりを報告する方法＠ほしまど
-
-  - chap-hoshimado-pseudo-estimation.re
-
-
-  # 再見積を防ぐ手法としてのRFP/いわゆる相見積とRFPを比較する
-
-  - chap-rfp.re
-
-  # 見積もる前に作業を終わらせろ
-
-  - chap-work.re
-
-  # いにしえのデスマーチ
-
-  - chap-kawahara-death-march.re
-
-  # 納期と信頼＠見積もりやっていきおじさん
-
-  - chap-delivery-trust.re
-
-  # エンジニアアンチパターンの過小見積もりで炎上するプロジェクト by 合同誌エディション（仮）
-
-  - chap-konosumi-anti-pattern.re
-
-  # 見積もり体験としての同人誌
-
-  - chap-doujinshi.re
-
-    # アジャイルと見積もり
+  # アジャイルと見積もり
   - chap-agile.re
-
-  # 温かみある見積もりのために
-
-  - chap-kane-trust.re
-
-  # フリーランス（受注側）にとっての見積もり ＠オーニシ
-
-  - chap-freelance-took.re
-
-  # 少人数チームでの見積もり失敗談（仮）＠オーニシ
-
-  - chap-example-onishi.re
 
   # 安全マージン＠ariaki
 
   - chap-safe-margin.re
 
-  - chap-hirosys.re
+  # 再見積を防ぐ手法としてのRFP/いわゆる相見積とRFPを比較する
+
+  - chap-rfp.re
+
+  # 小規模案件の見積もり＠親方
+
+  - chap-small-estimation.re
+
+  # フリーランス（受注側）にとっての見積もり ＠オーニシ
+
+  - chap-freelance-took.re
+
+  # 【付録へ移動、予定】なんちゃって見積り（仮称）。よく知らん開発の、とりあえずの見積もりを報告する方法＠ほしまど
+
+  - chap-hoshimado-pseudo-estimation.re
+
+  # 見積もる前に作業を終わらせろ
+
+  - chap-work.re
+
+  # 温かみある見積もりのために
+
+  - chap-kane-trust.re
+
+  # 納期と信頼＠見積もりやっていきおじさん
+
+  - chap-delivery-trust.re
+
+  # 見積もり体験としての同人誌
+
+  - chap-doujinshi.re
+  
+  # エンジニアアンチパターンの過小見積もりで炎上するプロジェクト by 合同誌エディション（仮）
+
+  - chap-konosumi-anti-pattern.re
+
+  # 少人数チームでの見積もり失敗談（仮）＠オーニシ
+
+  - chap-example-onishi.re
 
   # 見積もりのアンチパターン
 
   - chap-anti-pattern.re
+
+  # いにしえのデスマーチ
+  - chap-kawahara-death-march.re
+
+  # 移行作業における闇
+  - chap-hirosys.re
+
 
 APPENDIX:
 
   # フリーランスと見積もり
   - chap-freelance.re
 
+  # あなたの見積もり履歴書（寄稿コラム）
   - a3_minatogawa.re
 
 POSTDEF:
