@@ -14,6 +14,7 @@
 #@# KJuhmDlA_400x400.png    ariaki
 #@# __aizack_400×400.jpg    Aizack
 #@# Fhe3QTCf_400x400.jpg    オーニシ
+#@# hoshimad_400x400.jpg    ほしまど
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -43,7 +44,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。
+普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。
 
 == 執筆者
 
@@ -80,21 +81,6 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/RkmwJH1I_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        湊川あい @llminatoll https://twitter.com/llminatoll\\
-        サークル名：湊川あいの、わかば家。 http://webdesign-manga.com/
-        \end{minipage}
-    \hspace{1ex}
-//}
-絵を描くWeb デザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。前回に引き続き、表紙イラスト・付録コラムに参加させていただきました。今回見積もり本ということで、おやかたさんアイデアのガントチャート風の背景がビシッと決まり気に入っています。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/KJuhmDlA_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -104,6 +90,8 @@
     \hspace{1ex}
 //}
 勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。コミュニティを通じて親方さんからお声がけいただき、楽しそうだったので勢いだけではじめて執筆させていただきました。エンジニアにもそれ以外の方にも楽しく読んで頂けるようなエモい内容でお伝えできればと思っています。
+
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -148,6 +136,23 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 //}
 フリーランスでWebマーケティング、Web制作などの活動をしています。多少技術のわかる企画者という感じなのでWebサイト、PCゲーム、YouTube動画、技術書などを自分で勝手に企画して作っていますが受注も始めました。技術書典5とおやかた.amをきっかけに合同誌の執筆に参加させていただきました。自サークルではWordPressとGitと個人事業主の本を出しています。
 
+　
+
+//embed{
+
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
+        サークル名：Everyone Outputer
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerのSEとして客先に常駐しています。予算・工数見積もりなどは経験がないため、SEとして得た2年経験を振り返って若手エンジニア向けの作業見積もりをテーマに寄稿させて頂きました。過去の自分のように見積もりに悩む若手エンジニアに私の経験が届いてほしいと思って書きました。
+
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -164,20 +169,54 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 growthfactionやengineers_ltでは、広報担当としてコミュニティの認知向上をするために日夜努力しております。
 
-
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        Aizack @ykokubo09   https://twitter.com/ykokubo09\\
-        サークル名：Everyone Outputer
+        FORTE(フォルテ) https://twitter.com/FORTEgp05
         \end{minipage}
     \hspace{1ex}
 //}
-SIerのSEとして客先に常駐しています。予算・工数見積もりなどは経験がないため、SEとして得た2年経験を振り返って若手エンジニア向けの作業見積もりをテーマに寄稿させて頂きました。過去の自分のように見積もりに悩む若手エンジニアに私の経験が届いてほしいと思って書きました。
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はSIerとWeb系で得た経験から、オススメの見積もり手法について書きました。もっとうまい見積もり手法を探している人のお役に立てれば幸いです。
+
+　
+#@# ↑明示的な全角空白があるので、忘れずに。
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hoshimad_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ほしまど @hoshimado7 https://twitter.com/hoshimado7\\
+        サークル名：Fluorite
+        \end{minipage}
+    \hspace{1ex}
+//}
+仕事はたぶんIT関連。でも仕事じゃコーディングしてない。
+「ルーチンワークを楽にこなしたい」を目的に、趣味で日曜プログラミング。最近はNode.jsの手軽さが気に入って勉強中。
+仕事での見積もりは「私、それよく知らないんですけど？」な開発内容を振られて困ったことしか経験が無い。そんな初歩で困っている人もきっと居るはず、そんな人に届いたらいいな、と合同誌に参戦。むしろ私がこの本で勉強させていただきます。
+
+
+
+== 表紙イラスト担当
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/RkmwJH1I_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 http://webdesign-manga.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+絵を描くWeb デザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。前回に引き続き、表紙イラスト・付録コラムに参加させていただきました。今回見積もり本ということで、おやかたさんアイデアのガントチャート風の背景がビシッと決まり気に入っています。
+
 
 //embed{
    \begin{minipage}{.1\linewidth}
