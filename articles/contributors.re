@@ -142,7 +142,7 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 
     \begin{minipage}{.1\linewidth}
         \centering
-		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
+		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
