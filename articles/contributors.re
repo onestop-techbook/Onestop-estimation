@@ -145,7 +145,7 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
+        Aizack @ykokubo09   https://twitter.com/ykokubo09\\
         サークル名：Everyone Outputer
         \end{minipage}
     \hspace{1ex}
@@ -200,6 +200,20 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 「ルーチンワークを楽にこなしたい」を目的に、趣味で日曜プログラミング。最近はNode.jsの手軽さが気に入って勉強中。
 仕事での見積もりは「私、それよく知らないんですけど？」な開発内容を振られて困ったことしか経験が無い。そんな初歩で困っている人もきっと居るはず、そんな人に届いたらいいな、と合同誌に参戦。むしろ私がこの本で勉強させていただきます。
 
+
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       さっぴー川原 @sapi\_kawahara   https://twitter.com/sapi\_kawahara\\
+       \end{minipage}
+   \hspace{1ex}
+//}
+放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました、SESとして客先常駐していますが特定派遣なので職を失います、原稿書いている時点では転職活動中です。
+今回、この見積もりの話を寄稿したのは、ゲーム業界とスタートアップ企業界隈が似たようなアンチパターンを持っていると感じたためです。
+
 　
 
 //embed{
@@ -217,6 +231,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティを務めています。
 今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
 
+
 == 表紙イラスト担当
 
 //embed{
@@ -233,5 +248,17 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 絵を描くWeb デザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。前回に引き続き、表紙イラスト・付録コラムに参加させていただきました。今回見積もり本ということで、おやかたさんアイデアのガントチャート風の背景がビシッと決まり気に入っています。
 
 
-#@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       さっぴー川原 @sapi\_kawahara   https://twitter.com/sapi\_kawahara\\
+       \end{minipage}
+   \hspace{1ex}
+//}
+放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころよりIT業界に転職しました、SESとして客先常駐していますが特定派遣なので職を失います、原稿書いている時点では転職活動中です。
+今回、この見積もりの話を寄稿したのは、ゲーム業界とスタートアップ企業界隈が似たようなアンチパターンを持っていると感じたためです。
 
+#@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
