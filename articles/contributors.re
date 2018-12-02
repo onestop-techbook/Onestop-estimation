@@ -12,7 +12,7 @@
 #@# RkmwJH1I_400x400.jpg    湊川あい
 #@# wQsdxU4b_400x400.jpg    なかひこくん
 #@# KJuhmDlA_400x400.png    ariaki
-#@# __aizack_400×400.jpg    Aizack
+#@# __aizack_400x400.jpg    Aizack
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
 #@#自己紹介ひな形↓
@@ -142,7 +142,7 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 
     \begin{minipage}{.1\linewidth}
         \centering
-		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400.jpg}
+		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
