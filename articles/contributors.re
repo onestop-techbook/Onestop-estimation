@@ -135,6 +135,41 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 //}
 フリーランスでWebマーケティング、Web制作などの活動をしています。多少技術のわかる企画者という感じなのでWebサイト、PCゲーム、YouTube動画、技術書などを自分で勝手に企画して作っていますが受注も始めました。技術書典5とおやかた.amをきっかけに合同誌の執筆に参加させていただきました。自サークルではWordPressとGitと個人事業主の本を出しています。
 
+　
+
+//embed{
+
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
+        サークル名：Everyone Outputer
+        \end{minipage}
+    \hspace{1ex}
+//}
+SIerのSEとして客先に常駐しています。予算・工数見積もりなどは経験がないため、SEとして得た2年経験を振り返って若手エンジニア向けの作業見積もりをテーマに寄稿させて頂きました。過去の自分のように見積もりに悩む若手エンジニアに私の経験が届いてほしいと思って書きました。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        KANE @higuyume https://twitter.com/higuyume\\
+        サークル名： growthfaction /
+        \end{minipage}
+    \hspace{1ex}
+//}
+おしごと界隈で働いているエンジニア
+Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
+growthfactionやengineers_ltでは、広報担当としてコミュニティの認知向上をするために日夜努力しております。
+
+
+
 == 表紙イラスト担当
 
 //embed{
