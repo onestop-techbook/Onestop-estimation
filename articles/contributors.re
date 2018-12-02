@@ -152,7 +152,6 @@ NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SE
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-
         \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -167,7 +166,10 @@ growthfactionやengineers_ltでは、広報担当としてコミュニティの�
 
 
 
-\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400×400}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         Aizack @ykokubo09   https://twitter.com/ykokubo09\\     
