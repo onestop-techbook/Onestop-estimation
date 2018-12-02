@@ -174,7 +174,7 @@ growthfactionやengineers_ltでは、広報担当としてコミュニティの�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         FORTE(フォルテ) https://twitter.com/FORTEgp05
