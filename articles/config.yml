@@ -285,7 +285,7 @@ texstyle: onestop-techbook
 #
 # LaTeX用のdocumentclassを指定する
 # texdocumentclass: ["jsbook", "oneside,14pt,uplatex"]
-texdocumentclass: ["jsbook", "b5j,twoside,openany,uplatex,9.5pt"]
+texdocumentclass: ["jsbook", "b5j,oneside,openany,uplatex,9.5pt"]
 # texdocumentclass: ["jsbook", "a5j,twoside,openany,uplatex,9pt"]
 #
 # LaTeX用のコマンドを指定する
