@@ -1,4 +1,8 @@
-= 安全マージン@ariaki
+= 安全マージン
+
+//flushright{
+@ariaki
+//}
 
 == はじめに
 
