@@ -249,6 +249,22 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の本を書いていたりします。
 見積りは苦手なのでそんな人間の視点から見積りについて書いてみました。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/F-f1SUHd_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        @setazusa     http://hiroyuki.fieldnotes.jp/\\
+        サークル名： ふぃーるどのーつ https://pub.fieldnotes.jp/
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+自他共に認める振り回され系ITエンジニア。最近オンライン上で荒れている姿がみかけられるが、
+「せとさんにしか頼めないんです」と言われればやってしまうのである。
+
 == 表紙イラスト担当
 
 //embed{
@@ -263,6 +279,8 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
     \hspace{1ex}
 //}
 絵を描くWeb デザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。前回に引き続き、表紙イラスト・付録コラムに参加させていただきました。今回見積もり本ということで、おやかたさんアイデアのガントチャート風の背景がビシッと決まり気に入っています。
+
+
 
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
