@@ -43,6 +43,10 @@ CHAPS:
 
   - chap-hoshimado-pseudo-estimation.re
 
+  # スクラムとチームと統計的見積り
+
+  - chap-scrum-team-statistics.re
+
   # 見積もる前に作業を終わらせろ
 
   - chap-work.re

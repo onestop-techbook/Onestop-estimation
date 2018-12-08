@@ -15,6 +15,7 @@
 #@# __aizack_400x400.jpg    Aizack
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
+#@# youchan_400x400.jpg     youchan
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -233,6 +234,23 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
 
 　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/youchan_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        よう @youchan https://twitter.com/youchan\\
+        サークル名： みさきとミギー
+        \end{minipage}
+    \hspace{1ex}
+//}
+Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の本を書いていたりします。
+見積りは苦手なのでそんな人間の視点から見積りについて書いてみました。
+
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -246,7 +264,6 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
 //}
 自他共に認める振り回され系ITエンジニア。最近オンライン上で荒れている姿がみかけられるが、
 「せとさんにしか頼めないんです」と言われればやってしまうのである。
-
 
 == 表紙イラスト担当
 
