@@ -239,7 +239,7 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
         \includegraphics[width=.75\linewidth]{images/contributors/F-f1SUHd_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        @setazusa     http://hiroyuki.fieldnotes.jp/
+        @setazusa     http://hiroyuki.fieldnotes.jp/\\
         サークル名： ふぃーるどのーつ https://pub.fieldnotes.jp/
         \end{minipage}
     \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
