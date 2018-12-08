@@ -248,7 +248,9 @@
     {\huge
       \lineskip .75em
       \begin{tabular}[t]{c}%
-        <%= @authors %>
+	<%- if @config['edt'].present? -%>
+	<%= @config['edt'] %>　編
+	<%- end -%>
       \end{tabular}\par}%
     \vfill
     {\large <%= @config["date"] %> <%= I18n.t("edition")%>\hspace{2zw}<%= I18n.t("published_by", @config.names_of("pbl").join(I18n.t("names_splitter")))%>\par}%

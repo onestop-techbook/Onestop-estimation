@@ -9,3 +9,4 @@ articles/config_W32TeX.yml
 
 #ignore Visual Studio Code Workspace
 *.code-workspace
+articles/layouts/layout.tex - コピー.erb
