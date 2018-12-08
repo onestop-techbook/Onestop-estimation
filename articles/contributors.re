@@ -232,6 +232,21 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティを務めています。
 今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
 
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/F-f1SUHd_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        @setazusa     http://hiroyuki.fieldnotes.jp/\\
+        サークル名： ふぃーるどのーつ https://pub.fieldnotes.jp/
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+自他共に認める振り回され系ITエンジニア。最近オンライン上で荒れている姿がみかけられるが、
+「せとさんにしか頼めないんです」と言われればやってしまうのである。
+
 
 == 表紙イラスト担当
 
@@ -247,6 +262,8 @@ Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティ
     \hspace{1ex}
 //}
 絵を描くWeb デザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。前回に引き続き、表紙イラスト・付録コラムに参加させていただきました。今回見積もり本ということで、おやかたさんアイデアのガントチャート風の背景がビシッと決まり気に入っています。
+
+
 
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
