@@ -232,7 +232,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティを務めています。
 今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
 
-　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
+　
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
