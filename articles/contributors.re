@@ -254,7 +254,7 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/F-f1SUHd_400x400.jpg}
+        　
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         @setazusa     http://hiroyuki.fieldnotes.jp/\\
