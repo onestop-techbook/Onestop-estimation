@@ -86,7 +86,7 @@
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ariaki @ariaki4dev https://twitter.com/ariaki4dev\\
-        サークル名：エンジニアの登壇を応援する会 http://engineers-lt.info
+        サークル名：エンジニアの登壇を応援する会 https://portal.engineers-lt.info/
         \end{minipage}
     \hspace{1ex}
 //}
