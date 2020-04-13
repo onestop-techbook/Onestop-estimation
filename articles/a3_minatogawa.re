@@ -207,7 +207,7 @@ https://zeniket.jimdofree.com/
 //footnote[podcast][@<href>{https://soundcloud.com/user-549591188 }]
 //footnote[techbook][@<href>{https://growthfaction.booth.pm/items/1038923 }]
 //footnote[script][@<href>{https://blog.japascript.jp/ }]
-//footnote[vtryo][@<href>{https:https://twitter.com/3s_hv/ }]
+//footnote[vtryo][@<href>{https://twitter.com/3s_hv/ }]
 
 == 私の見積もり履歴書@hekitter
 
