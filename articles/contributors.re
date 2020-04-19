@@ -82,7 +82,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/KJuhmDlA_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/KJuhmDlA_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ariaki @ariaki4dev https://twitter.com/ariaki4dev\\
@@ -112,7 +112,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/alice_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/alice_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ありす ゆう @Alice\_You https://twitter.com/Alice\_You\\
@@ -158,7 +158,7 @@ SIerのSEとして客先に常駐しています。予算・工数見積もり�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         KANE @higuyume https://twitter.com/higuyume\\
@@ -206,7 +206,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //embed{
    \begin{minipage}{.1\linewidth}
        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
+        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400.jpg}
    \end{minipage}
    \begin{minipage}{.89\linewidth}
        さっぴー川原 @sapi\_kawahara   https://twitter.com/sapi\_kawahara\\
@@ -221,7 +221,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yunon_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/yunon_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ゆのん @yunon\_phys https://twitter.com/yunon\_phys\\
