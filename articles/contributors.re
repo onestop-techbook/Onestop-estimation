@@ -273,7 +273,7 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
         \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        森一樹 @viva_tweet_x https://twitter.com/viva_tweet_x\\
+        森一樹 @viva_tweet_x https://twitter.com/viva\_tweet\_x\\
         サークル名： プロジェクトマネージャ保護者会 /
         \end{minipage}
     \hspace{1ex}
